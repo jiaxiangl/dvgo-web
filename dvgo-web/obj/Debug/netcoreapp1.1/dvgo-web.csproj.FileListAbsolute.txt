@@ -1,0 +1,10 @@
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\bin\Debug\netcoreapp1.1\dvgo-web.dll
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\bin\Debug\netcoreapp1.1\dvgo-web.deps.json
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\bin\Debug\netcoreapp1.1\dvgo-web.runtimeconfig.json
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\bin\Debug\netcoreapp1.1\dvgo-web.runtimeconfig.dev.json
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\bin\Debug\netcoreapp1.1\dvgo-web.pdb
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\obj\Debug\netcoreapp1.1\dvgo-web.csproj.CoreCompileInputs.cache
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\obj\Debug\netcoreapp1.1\dvgo-web.AssemblyInfoInputs.cache
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\obj\Debug\netcoreapp1.1\dvgo-web.AssemblyInfo.cs
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\obj\Debug\netcoreapp1.1\dvgo-web.dll
+C:\Users\jiaxiangl\project_github\dvgo-web\dvgo-web\obj\Debug\netcoreapp1.1\dvgo-web.pdb
